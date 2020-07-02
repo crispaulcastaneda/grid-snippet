@@ -1,0 +1,23 @@
+{
+  "name": "grid",
+  "version": "1.0.0",
+  "description": "Grid Snippet ",
+  "main": "index.js",
+  "scripts": {
+    "test": "Index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crispaulcastaneda/grid-snippet.git"
+  },
+  "keywords": [
+    "css",
+    "html"
+  ],
+  "author": "Cristian Paul Castaneda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crispaulcastaneda/grid-snippet/issues"
+  },
+  "homepage": "https://github.com/crispaulcastaneda/grid-snippet#readme"
+}
